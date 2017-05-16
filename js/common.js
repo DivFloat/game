@@ -16,6 +16,8 @@ $(function(){
 		"height":h*0.278,
 		"padding-top":h*0.068
 	});
+	var w1=$("#img").width();
+	$("#img").css("height",w1);
 	$("p:first").css({
 		"fontSize":h*0.035,
 		"marginTop":h*0.02
