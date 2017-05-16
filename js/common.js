@@ -4,7 +4,7 @@ $(function(){
 	$("header").css("height",h*0.067);
 	$("#hotgame").css({
 		"width":w*0.3,
-		"height":h*0.067,
+		"height":h*0.2,
 		"lineHeight": h*0.067+"px",
 		"fontSize": h*0.03		
 	});
