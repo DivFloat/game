@@ -17,8 +17,8 @@ $(function(){
 		"padding-top":h*0.068
 	});
 	$("#img").css({
-		"width":160+"px",
-		"height":160+"px",
+		"width":w*0.157+"px",
+		"height":w*0.157+"px",
 	});
 	$("p:first").css({
 		"fontSize":h*0.035,
